@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016201066519",
+    "firebase_url": "https://matrix-tk99.firebaseio.com",
+    "project_id": "matrix-tk99",
+    "storage_bucket": "matrix-tk99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016201066519:android:9a851ec47072fc9d30c452",
+        "android_client_info": {
+          "package_name": "com.example.matrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016201066519-meu0d8lrbolvf370emu91r3s6namurna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG9knefu00pAqLjhx1ykhG257csSE8sd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016201066519-meu0d8lrbolvf370emu91r3s6namurna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
